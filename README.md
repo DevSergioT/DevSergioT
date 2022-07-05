@@ -1,6 +1,6 @@
-## Olá 🖖!
+## Olá 🖖! <br> Muito prazer eu sou o *Sergio*, tenho muito prazer de fazer o que faço, e trocar experiencias e conhecimento com todos.<br> 🚀🚀🚀🚀
 
-Muito prazer eu sou o *Sergio T Gracia*. 🚀🚀🚀🚀
+
 
 #### _Social midia_.
 
