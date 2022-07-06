@@ -17,13 +17,14 @@
 
 <div style="display: inline_block"><br>
 
-<a href='https://github.com/DevSergioT/beautsalon/blob/main/index.html'>
+<a href='https://github.com/DevSergioT'>
 <img aling="center" alt="html5" height="50" width="50" src="https://cdn.iconscout.com/icon/premium/png-64-thumb/html5-3-502526.png"/>     </a> 
-<a href='https://github.com/DevSergioT/beautsalon/blob/main/stylemain.css'>    
+<a href='https://github.com/DevSergioTs'>    
  <img aling="center" alt="CSS3" height="50" width="50" src="https://cdn.iconscout.com/icon/free/png-64/css3-11-1175239.png"/></a>
- <a href='https://github.com/DevSergioT/beautsalon/blob/main/jsmain.js'>
+ <a href='https://github.com/DevSergioT'>
 <img aling="center" alt="js" height="50" width="50" src="https://cdn.iconscout.com/icon/free/png-64/javascript-3628858-3029998.png"/></a>
-<img aling="center" alt="react" height="50" width="50" src="https://cdn.iconscout.com/icon/free/png-64/react-3521666-2945110.png"/>
-<img aling="center" alt="node" height="50" width="50" src="https://cdn.iconscout.com/icon/free/png-64/node-js-1174925.png"/>
-
+<a href='https://github.com/DevSergioT'>
+<img aling="center" alt="react" height="50" width="50" src="https://cdn.iconscout.com/icon/free/png-64/react-3521666-2945110.png"/></a>
+<a href='https://github.com/DevSergioT'>
+<img aling="center" alt="node" height="50" width="50" src="https://cdn.iconscout.com/icon/free/png-64/node-js-1174925.png"/></a>
 </div>
