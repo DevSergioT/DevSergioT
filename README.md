@@ -1,8 +1,11 @@
-## Olá 🖖! <br> Muito prazer eu sou o *Sergio*, tenho muito prazer de fazer o que faço, e trocar experiencias e conhecimento com todos.<br> 🚀🚀🚀🚀
+## Olá 🖖! <br> Muito prazer eu sou o *Sergio*, tenho muito prazer em fazer o que faço e trocar experiencias e conhecimento com as pessoas me faz muito bem.<br> 🚀🚀🚀🚀
 
 
+<br>
 
-#### _Social midia_.
+### _Social midia_.
+
+<br>
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sergio-tormente-garcia-a3a934a3/)
@@ -11,7 +14,7 @@
 [![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/seWolverine)
 
 ![SergioGarcia](https://github-readme-stats.vercel.app/api?username=DevSergioT&show_icons=true&theme=tokyonight)
-![Sergio Garcia](https://github-readme-stats.vercel.app/api/top-langs/?username=DevSergioT&langs_count=8&theme=tokyonight)
+![Sergio Garcia](https://github-readme-stats.vercel.app/api/top-langs/?username=DevSergioT&langs_count=8&theme=tokyonight)<br>
 
 ### Tecnologias que eu uso no meu dia a dia.
 
