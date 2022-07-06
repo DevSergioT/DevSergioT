@@ -13,8 +13,11 @@
 [![facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.instagram.com/sergio.wolverine/)
 [![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/seWolverine)
 
-![SergioGarcia](https://github-readme-stats.vercel.app/api?username=DevSergioT&show_icons=true&theme=tokyonight)
-![Sergio Garcia](https://github-readme-stats.vercel.app/api/top-langs/?username=DevSergioT&langs_count=8&theme=tokyonight)<br>
+<div  style="display: inline_block">
+
+<img height='180em' src='https://github-readme-stats.vercel.app/api?username=DevSergioT&show_icons=true&theme=tokyonight'/>
+<img height='180em'src='https://github-readme-stats.vercel.app/api/top-langs/?username=DevSergioT&langs_count=8&theme=tokyonight'>
+</div><br>
 
 ### Tecnologias que eu uso no meu dia a dia.
 
